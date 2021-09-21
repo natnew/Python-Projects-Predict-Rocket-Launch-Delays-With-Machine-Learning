@@ -1,4 +1,4 @@
-# Python Projects: Predict Rocket Launch Delays With Machine Learning :snake
+# Python Projects: Predict Rocket Launch Delays With Machine Learning 🐍
 This repo contains python code that ***Predict Rocket Launch Delays With Machine Learning***.<br>
 Run the code.
 
